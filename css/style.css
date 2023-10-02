@@ -1,0 +1,68 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.main {
+}
+.main__cart {
+}
+.main__cartcircle {
+    margin-left:-8px;
+    margin-bottom: 14px;
+}
+.main__list {
+}
+.main__listitem {
+}
+.main__listitem_active {
+}
+.sidebar {
+
+width: 328px;
+height: 768px;
+flex-shrink: 0;
+background: #415167;
+}
+.sidebar__logo {
+
+
+}
+.sidebar__coffeeimg {
+   
+}
+.sidebar__offertext {
+    width: 486px;
+    height: 200px;
+    color: #415167;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70px; 
+    position: absolute;
+    left:130px;
+    top:504px;
+    padding-left: 15px;
+}
+.sidebar__background {
+    background: #C7A17A;
+    padding-left: 0px;
+}
+.header{
+    width: 1040px;
+    height: 40px;
+    margin-left:130px;
+    margin-top: 67px;;    
+    display:flex;
+    justify-content: space-between;
+}
+.header__cart{
+
+}
+.content{
+    position:absolute;
+    left:386px;
+    top:0px;
+    display: flex;
+
+}
